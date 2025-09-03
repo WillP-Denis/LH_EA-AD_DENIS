@@ -9,6 +9,6 @@ contas = pd.read_csv('C:/Users/denis/OneDrive/Área de Trabalho/Analises/LH_EA-A
 propostas_cred = pd.read_csv('C:/Users/denis/OneDrive/Área de Trabalho/Analises/LH_EA-AD_Denis/arquivos_csv/propostas_credito.csv')
 transacoes = pd.read_csv('C:/Users/denis/OneDrive/Área de Trabalho/Analises/LH_EA-AD_Denis/arquivos_csv/transacoes.csv')
 # %%
-
+agencias.info()
 
 # %%
